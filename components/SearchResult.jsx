@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 // Jehetu eti ekti client component er moddhe use hoyeche,
 // tai eti o client component,
 // jodi children props er madddhome component pathatam tahole "use Client" likha lagto.
